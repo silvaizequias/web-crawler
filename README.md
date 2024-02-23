@@ -1,4 +1,4 @@
-# Web Crawler Challenge
+# Web Crawler
 
 Este projeto foi criado com o [Express](https://expressjs.com/pt-br/) demanda de requisitos de um desafio técnico com o principal objetivo:
 
